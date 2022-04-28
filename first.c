@@ -17,6 +17,5 @@ else
     printf("Division Of Numbers= %d\n",b/a);
     printf("Remainder Of Numbers= %d\n",b%a);
 }
-printf("Remainder Of Numbers= %d\n",a%b);
 return 0;
 }
