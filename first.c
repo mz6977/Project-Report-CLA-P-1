@@ -5,7 +5,7 @@ int a,b;
 printf("Please enter two numbers: ");
 scanf("%d %d",&a,&b);
 printf("Sum Of Numbers= %d\n",a+b);
-printf("Product Of Numbers= %d\n"a*b);
+printf("Product Of Numbers= %d\n",a*b);
 if(a>b)
 {
     printf("Difference Of Numbers= %d\n",a-b);
